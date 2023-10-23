@@ -13,3 +13,5 @@ Standards and Protocols: Crypto wallets follow certain standards and protocols (
 Misleading Notion of Probability: People often misjudge such probabilities. For example, in cases like the birthday paradox, we are surprised to learn that in a group of 23 people, the probability of two people having the same birthday is over 50%. However, when it comes to keywords, the probabilities are completely different and extremely low.
 
 #Bitcoin detailed research series 1.
+
+All tools and information contained herein are presented or made available for the sole purpose of securing legal remedies. I do not undertake any illegal action on your part. FOR PURELY EDUCATIONAL PURPOSES.
